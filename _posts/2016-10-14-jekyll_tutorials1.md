@@ -15,11 +15,11 @@ tags: 简历
 <table>
 <tr>
     <td width="70px">姓名:</td>
-    <td>辛文硕</td>
+    <td>连宏宝</td>
     <td>性别:</td>
     <td>男</td>
    <td>年龄:</td>
-    <td>20岁</td>
+    <td>22岁</td>
      <td rowspan="2" width="20px" style="line-height:45px"> 头 像</td>
     <td rowspan="2" width="100px">不让看</td> 
 </tr>
